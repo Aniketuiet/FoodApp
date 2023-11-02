@@ -1,5 +1,5 @@
 # FoodApp Deploy Link
-# [Sabjibazar]
+# Sabjibazar
 
 Welcome to Sabjibazar - Your Ultimate Culinary Companion! 🍔🚀
 
